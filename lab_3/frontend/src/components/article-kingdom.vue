@@ -1,0 +1,236 @@
+<template>
+    <header class="header">
+		<div class="container">
+			<nav class="navbar navbar-expand-lg navbar-dark">
+			<div class="container-fluid">
+			    <a class="navbar-brand" href="index.html">G-News</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				    <span class="navbar-toggler-icon"></span>
+				</button>
+			    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			      	<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				        <li class="nav-item">
+				          <a class="nav-link" aria-current="page" href="index.html">Главная</a>
+				        </li>
+				        <li class="nav-item">
+				          <a class="nav-link" href="profile.html">Мой профиль</a>
+				        </li>
+				        <li class="nav-item">
+				          <a class="nav-link" href="log-in.html">Вход</a>
+				        </li>
+				        <li class="nav-item">
+				          <a class="nav-link" href="sign-up.html">Регистрация</a>
+				        </li>
+				        <li class="nav-item">
+				          <a class="nav-link" href="about.html">О Нас</a>
+				        </li>
+				    </ul>
+				    <form class="d-flex">
+				        <input class="form-control me-2" type="search" placeholder="Поиск" aria-label="Search">
+				        <button class="btn btn-light" type="submit">Найти</button>
+				    </form>
+			    </div>
+			</div>
+		</nav>
+		</div>
+	</header>
+	<section class="article__main">
+		<div class="container">
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h1 class="card-title">Взгляд на Kingdom Come. Обзор спустя три года</h1>
+			    	<p class="card-text">
+			    		<small class="text-muted card-list">
+			    			<ul class="articles__card-list">
+								<li class="articles__card-list-item icon-comment">
+								0
+								</li>
+								<li class="articles__card-list-item icon-like">
+								5
+								</li>
+								<li class="articles__card-list-item icon-view">
+								366
+								</li>
+							</ul>
+						</small>
+					</p>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-come.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		Одним из самых популярных сеттингов в видеоигровой индустрии является средневековое фэнтези. Романтика рыцарских сражений, схватки с опасными монстрами и путешествия в далекие королевства заставляют нас проводить сотни часов в таких играх, как Gothic, The Witcher или The Elder Scrolls. Но что будет, если убрать из них магию, драконов и другие элементы фэнтези? Останутся грязные улицы средневековых городов, бесконечная борьба за власть и необразованные крестьяне, живущие в абсолютной нищете.
+
+						Эти и многие другие ужасы реальной истории детально и без прикрас отображены в ролевой игре Kingdom Come: Deliverance, выпущенной чешской студией Warhorse в 2018 году. Сегодня, по случаю трёхлетия этой игры, сайт G-News расскажет, почему любители RPG обязательно должны ознакомиться с ней.
+					</p>   	
+			  	</div>	
+			</div>
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h3 class="card-title article-title">
+			    		Исторический подтекст и уникальность
+			    	</h3>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-img-1.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		Kingdom Come: Deliverance в полной мере удивительная игра: не так часто разработчики видеоигр обращаются к реальным историческим событиям и личностям (к примеру, Сигизмунд Люксембургский, о котором упомянуто ниже — будущий король Чехии). Более того, перед нами не стратегия, которым присуща историческая тематика, а ролевая игра.
+
+						Место действия и временной период также нестандартные: средневековая Чехия ещё никогда не была показана так реалистично и красочно, как в обсуждаемой игре. События Kingdom Come: Deliverance происходят за несколько лет до гуситских войн, а многие персонажи то и дело вспоминают молодого магистра пражского университета Яна Гуса, чьи проповеди и станут причиной многолетнего кровавого конфликта в центре Европы.
+					</p>   	
+			  	</div>	
+			</div>
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h3 class="card-title article-title">Сюжет</h3>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-img-2.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		В центре сюжета Kingdom Come: Deliverance находится молодой сын кузнеца со звучным чешским именем Индржих. В английской версии игры его зовут Генри, поэтому для простоты и мы будем пользоваться этим именем. Парень живет обычной деревенской жизнью: помогает отцу с работой, дурачится с друзьями и, конечно же, ухаживает за девушками.
+
+						В один из дней 1403 года по приказу Сигизмунда Люксембургского на Скалицу (так называется деревня) нападает войско половцев. Селяне не смогли сдержать натиск многотысячной армии, и после непродолжительной битвы Скалица была разрушена, а почти всё жители убиты или попали в плен. Волею судьбы Генри удается избежать гибели, добравшись до крепости неподалеку.
+
+						Перед нападением татар юноша и его отец закончили работу над мечом для пана Радцига — благородного правителя близлежащих земель. Через несколько дней после сражения Генри возвращается в родное поселение, чтобы достойно похоронить родителей. Придя домой, герой натыкается на мародеров, которые избивают его до полусмерти и отбирают тот самый меч.
+
+						Оправившись от травм и потрясений, персонаж считает своим долгом найти меч и доставить его пану. Дальнейшие события игры мы описывать не будем, скажем лишь, что всё вышесказанное лишь завязка, и в дальнейшем игрока ожидает множество захватывающих событий.
+					</p>   	
+			  	</div>	
+			</div>
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h3 class="card-title article-title">Игровой процесс</h3>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-img-3.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		Как в любой ролевой игре, в Kingdom Come: Deliverance присутствует большое количество игровых механик, многие из которых неочевидны. Нет смысла перечислять всё, чем можно заниматься в игре, скажем, что большую часть времени игрок будет общаться с персонажами и путешествовать по Чехии.
+
+						Заметим, что в основе геймплея Kingdom Come лежит реализм: герою нужно спать и есть, стирать одежду и перевязывать раны после боя, продукты в сумке портятся и необходимо следить за их свежестью.
+
+						Игра не фокусируется на сражениях, поскольку большинство заданий имеют мирный способ прохождения: вы всегда договоритесь с персонажами, подкупите или запугаете их, а если и это не выходит, то можно прокрасться за их спинами. Что и к лучшему, поскольку боевая система в игре, скажем прямо, переусложненная, а местами и вовсе не доработанная. И в целом ощущается, что Kingdom Come: Deliverance создавала небольшая студия с ограниченным бюджетом. Впрочем, это не мешает игре быть захватывающей и увлекательной.
+					</p>   	
+			  	</div>	
+			</div>
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h3 class="card-title article-title">Разработчик</h3>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-img-4.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		Разработкой игры руководил чешский геймдизайнер Даниэль Вавра, известный широкой публике как создатель серии Mafia. На первом месте у Вавры всегда стоит сюжет и повествование, поэтому и в Kingdom Come: Deliverance эти аспекты выполнены на очень высоком уровне. Сюжет не подразумевает привычного нам спасения мира от вселенской угрозы, как принято в RPG. Вместо этого, он рассказывает простую, но от этого не менее захватывающую историю, в центре которой находятся обычные люди со своими принципами и проблемами, что и подкупает игрока.
+
+						Конечно, иногда Kingdom Come: Deliverance кажется скучной и затянутой, но пьянка со священником, шабаш с ведьмами и снова пьянка с молодым паном в купальнях заметно скрашивают монотонную и размеренную игру. Кстати, нельзя не упомянуть, что у чешской RPG имеется ещё одна хорошая сторона: прекрасный юмор. Персонажи то и дело обмениваются колкими замечаниями, подтрунивают друг над другом, постоянно происходят забавные ситуации.
+					</p>   	
+			  	</div>	
+			</div>
+			<div class="card mb-3">
+			  	<div class="card-body">
+			    	<h3 class="card-title article-title">Заключение</h3>
+					<div class="article__main-wrapper--img">
+						<img src="images/kingdom-img-5.jpg" class="card-img-top" alt="Kindom Come">
+					</div>
+			    	<p class="card-text">
+			    		Перед тем, как подвести итог, заметим, что после выхода Kingdom Come: Deliverance студию Warhorse приобрело крупное издательство Deep Silver. Даниэль Вавра неоднократно заявлял о том, что Kingdom Come станет трилогией и деньги крупной компании помогут сделать вторую часть намного проработаннее и технологичнее. И по слухам, анонса осталось ждать недолго, что является дополнительным поводом для геймеров ознакомиться с игрой или освежить память и пройти ее заново. Кроме того, недавно появилась информация о том, что Вавра планирует и экранизацию  Kingdom Come.
+
+						Так почему же поклонникам RPG не стоит обходить стороной чешский хит? — ответ очевиден: в игре есть всё, что они так любят: захватывающий сюжет, увлекательные диалоги, интересные персонажи, много побочных занятий и, конечно же, прекрасная музыка, дополняющая общую атмосферу. К тому же,
+						Kingdom Come: Deliverance представляет исторический интерес, поскольку позволяет взглянуть на жизнь средневековья с его романтикой и приземлённостью.
+
+						Конечно, у игры есть недостатки, некоторые из них серьёзные, но положительных сторон однозначно больше.
+					</p>   	
+			  	</div>	
+			</div>
+		</div>
+	</section>
+	<section class="comments">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2 class="comments__title text-center">
+						Комментарии
+					</h2>
+				</div>
+				<div class="col-lg-6">
+					<div id="comment-field"></div>
+				</div>
+				<div class="col-lg-6">
+					<form>
+						<div class="comments__form-item form-group">
+							<label for="comment-name">Имя:</label>
+							<input type="text" class="form-control" id="comment-name"  placeholder="Ваше Имя">
+						</div>
+						<div class="comments__form-item form-group">
+							<label for="comment-body">Комментарий:</label>
+							<textarea type="text" class="form-control" id="comment-body" placeholder="Комментарий"></textarea>
+						</div>
+						<div class="comments__form-item form-group">
+							<button type="submit" id="comment-add" class="btn btn-dark">Добавить комментарий</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>	
+	</section>
+	<footer class="footer">
+		<div class="container">
+			<div class="footer__wrapper">
+				<nav class="nav justify-content-center">
+	  				<ul class="nav ">
+						<li class="nav-item">
+					        <a class="nav-link footer-link" aria-current="page" href="index.html">Главная</a>
+					    </li>
+					    <li class="nav-item">
+					        <a class="nav-link footer-link" href="profile.html">Мой профиль</a>
+					    </li>
+					    <li class="nav-item">
+					        <a class="nav-link footer-link" href="log-in.html">Вход</a>
+					    </li>
+					    <li class="nav-item">
+					        <a class="nav-link footer-link" href="sign-up.html">Регистрация</a>
+					    </li>
+					    <li class="nav-item">
+					        <a class="nav-link footer-link" href="about.html">О Нас</a>
+					    </li>
+					</ul>
+				</nav>
+				<div class="footer__text">
+					<p>
+						Created by Danil Nikolaichuk
+					</p>
+				</div>
+			</div>
+		</div>		
+	</footer>
+</template>
+
+<script>
+export default {
+    beforeRouteEnter(to, from, next) {
+        if (from.meta.auth === true){
+            next();
+        }
+        else {
+            next('/log-in');
+        }
+        to.meta.auth = from.meta.auth;
+    },
+}
+</script>
+
+<style>
+.article__main-wrapper--img{
+	margin-bottom: 15px;
+}
+
+.article-title{
+	margin-bottom: 20px;
+}
+
+.comment-input{
+	margin-bottom: 15px;
+}
+
+.comments{
+	margin-bottom: 50px;
+}
+</style>
